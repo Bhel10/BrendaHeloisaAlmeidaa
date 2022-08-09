@@ -1,0 +1,5 @@
+-  📌 Sou a @Bhel10;
+-  📌 Email: votbtsami81@gmail.com;
+-  📌 Sou iniciante no GitHub;
+-  📌 Estou disposta a aprender; 
+-  📌 
