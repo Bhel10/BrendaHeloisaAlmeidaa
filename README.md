@@ -1,5 +1,5 @@
--  📌 Sou a @Bhel10;
+-     # **Sou iniciante no GitHub, sou estudante e quero aprender;**  
+-  📌 Meu nome é Brenda;
 -  📌 Email: votbtsami81@gmail.com;
 -  📌 Sou iniciante no GitHub;
--  📌 Estou disposta a aprender; 
--  📌 
+-  📌 **Sou estudante e estou disposta a aprender;**  
