@@ -1,5 +1,5 @@
--     # **Sou iniciante no GitHub, sou estudante e quero aprender;**  
+# Sou iniciante no GitHub, sou estudante e quero aprender;
 -  📌 Meu nome é Brenda;
--  📌 Email: votbtsami81@gmail.com;
--  📌 Sou iniciante no GitHub;
--  📌 **Sou estudante e estou disposta a aprender;**  
+-  📌 Meu email brenda.heloisadossantosde.almeida@escola.com.br;
+-  📌 Estou no Ensino Médio;
+-  📌 Estou aprendendo as Linguagens de Progranação Scratch e JavaScript.
